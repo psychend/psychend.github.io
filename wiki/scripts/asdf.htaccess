@@ -1,0 +1,5 @@
+AuthName "This is a private site."
+AuthType Basic
+AuthUserFile /customers/8/b/1/pancakeapps.com/httpd.www/.htpasswd
+AuthGroupFile /dev/null 
+require valid-user
